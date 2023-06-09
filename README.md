@@ -1,2 +1,2 @@
-# Bharat-Intern-Machine-Learning-
+# Bharat-Intern-Machine-Learning-Intern
 This Repo contains Bharat Intern Machine Learning Tasks
